@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppCheckBox</string>
+    <string name="edt1">Ingrese el primer numero</string>
+    <string name="edt2">Ingrese el segundo numero</string>
+    <string name="cbsum">Suma</string>
+    <string name="cbres">Resta</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="tvresultado">Resultado:</string>
+</resources>
